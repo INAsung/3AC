@@ -1,0 +1,8 @@
+stage1: only central spouts move, give water unconditionally | 1~2 days
+stage2_2choice: only lateral spouts move, give water when lick is detected | 3 days
+                choice should be counterbalanced
+stage2_3choice: both lateral spouts and central spout move. give water when lick is deteced. | 3 days
+                choice should be counterbalanced.
+stage2_central_plus_3choice: first, central spout come in and give water unconditionally. | 1~2 days
+                             then, 3 choice come in and give water when lick is detected.
+stage3_3AC: now, let's start 3AC task!
