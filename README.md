@@ -14,9 +14,9 @@
 	- i) blind tasting of either a pure tastant or mixture (e.g., sweet, salty, or sweet-salty mixture)
 	- ii) selection of one of the three bottles corresponding to the tasted solution.
 
-- A servo motor switches the tastant solution provided to the mouse for each trial. The liquids are never mixed because they flow through separate lines.
-- Linear actuators move back and forth, allowing the mouse access to the lick spout for a limited time period.
-- DIY capacitive lickometer detects and records licks.
+- **A servo motor** switches the tastant solution provided to the mouse for each trial. The liquids are never mixed because they flow through separate lines.
+- **Linear actuators** move back and forth, allowing the mouse access to the lick spout for a limited time period.
+- **DIY capacitive lickometer** detects and records licks.
 
 - *This is the **first attempt** to match three choices to the three decision spouts.*
 ---
